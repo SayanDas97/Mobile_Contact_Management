@@ -5,4 +5,4 @@ This project demonstrates how Java applications interact with relational databas
 To implement database connectivity using JDBC
 To perform CRUD operations using Java
 To store and manage contact details efficiently
-To understand SQL query execution through Java programs
+To understand SQL query execution through Java programs.
